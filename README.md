@@ -15,4 +15,6 @@ CLI
   infer       python bitnet_v2_nat.py infer --ckpt … --prompt …
   export_hf   python bitnet_v2_nat.py export_hf --ckpt … --out DIR
 """
-will upload more in time pretrained checkpoints i will link via cloud at some point any donation or investment in doing this just dm and ask what you propose or want to send.
+will upload more in time pretrained checkpoints i will link via cloud at some point
+Any donation or investment in doing this just dm and ask what you propose or want to send.
+Vast.ai and Hetzner cloud are proably best places to train these models for cheapest prices
