@@ -17,4 +17,4 @@ CLI
 """
 will upload more in time pretrained checkpoints i will link via cloud at some point
 Any donation or investment in doing this just dm and ask what you propose or want to send.
-Vast.ai and Hetzner cloud are proably best places to train these models for cheapest prices
+Vast.ai and Hetzner cloud are proably best places to train these models for cheapest prices, AI ASICS like Google TPU and Amazon Tiatium tho not as cheap per epoch are fast. Prime Intellect i good to for short H200 runs, which are cheaper then H100 x8 per epoch just have to wait 4 times longer, not sure why anyone use H100 over H200 but hey ho
